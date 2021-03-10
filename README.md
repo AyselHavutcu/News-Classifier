@@ -1,4 +1,4 @@
-# StajProjesi
+# Internship Project
 
 This project covers the creation a real-time web application that gathers data from several newspapers and shows a summary of the different topics that are being treated in the news articles.
 
